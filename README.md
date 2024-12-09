@@ -1,6 +1,6 @@
 # API RESTful para leitura da lista de indicados e vencedores da categoria Pior Filme do Golden Raspberry Awards.
 
-**Instruções para rodar o projeto
+## Instruções para rodar o projeto**
 
 1- Clonar o projeto no GitHub "https://github.com/medidrones/APICategoryMovie.git".
 2- Abrir o projeto no Visual Studio. 
