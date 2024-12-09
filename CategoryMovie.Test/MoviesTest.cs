@@ -13,12 +13,12 @@ namespace CategoryMovie.Test
         }
 
         [Fact]
-        public async Task Test1()
+        public async Task GetMinMaxWinners_ReturnsMinMaxWinners()
         {
             var response = await _httpClient.GetAsync("/Movies");
             var result = await response.Content.ReadAsStringAsync();
 
             Assert.True(response.IsSuccessStatusCode);
-        }
+        }       
     }
 }
