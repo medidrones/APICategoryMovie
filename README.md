@@ -10,7 +10,7 @@
 
 ![Tech skills](Utils/CaminhoArquivoCsv.jpg)
 
-- Para obter os intervalos entre os vencedores, rodar o projeto, deixando como inicialização "CategoryMovie.API", e realizar um Get do método “/movies” dentro do Swagger, conforme imagens abaixo.
+- Para obter os intervalos entre os vencedores, rodar o projeto, deixando como inicialização "CategoryMovie.API", e realizar um Get do método “/Movies” dentro do Swagger, conforme imagens abaixo.
 
 ![Tech skills](Utils/Swagger01.jpg)
 
